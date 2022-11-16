@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\bin\Debug\Biljka_nasljedivanje.exe.config
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\bin\Debug\Biljka_nasljedivanje.exe
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\bin\Debug\Biljka_nasljedivanje.pdb
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\obj\Debug\Biljka_nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\obj\Debug\Biljka_nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\obj\Debug\Biljka_nasljedivanje.exe
+C:\Users\ucenik\source\repos\Biljka_nasljedivanje\Biljka_nasljedivanje\obj\Debug\Biljka_nasljedivanje.pdb
