@@ -61,8 +61,8 @@ namespace Biljka_nasljedivanje
             Crnogoricno bor = new Crnogoricno(false);
             Bjelogoricno hrast = new Bjelogoricno(true);
 
-            Console.WriteLine("Hrast je: " + hrast.ToString());
-            Console.WriteLine("Bor je: " + bor.ToString());
+            Console.WriteLine("Hrast: " + hrast.ToString());
+            Console.WriteLine("Bor: " + bor.ToString());
 
             Console.ReadKey();
         }
